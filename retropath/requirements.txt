@@ -1,0 +1,10 @@
+requests
+numpy
+pandas
+geopandas
+shapley
+ladybug-core
+pymoo
+lightning
+torch
+gdm-concordia
